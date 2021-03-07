@@ -46,7 +46,7 @@ As seguintes ferramentas foram usadas nos exemplos:
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-## :rocket: Autor ##
+## :man_technologist: Autor ##
 
 <img style="border-radius: 50% !important;" src="https://kelwys.github.io/images/avatar.png" width="100px;" alt="photo author"/>
 
